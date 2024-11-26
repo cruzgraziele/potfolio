@@ -1,0 +1,23 @@
+dn.jsde<link href="https://clivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+:root{     
+    --cor-principal: #EE82EE;
+    --cor-secundaria: #9400D3;
+    --cor-destaque: #00008B;
+}
+
+body {
+     font-family: 'Chakra Petch', sans-serif;
+}
+
+h1, h2, h5 {
+     color: var(--cor-secundaria);
+     font-weight: 700;
+}
+
+footer a {
+    color: var(--cor-principal)
+}
+
+footer a:hover {
+    color var(--cor-destaque);
+}
